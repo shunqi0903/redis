@@ -1,0 +1,4 @@
+spring:
+  redis:
+    host: 124.71.216.103
+    password: hepengrui0903
